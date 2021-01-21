@@ -42,7 +42,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/53696144/105339386-9f770700-5c02-11eb-8863-2a9450c3d852.PNG" width="400px" > 
+<img src="https://user-images.githubusercontent.com/53696144/105339386-9f770700-5c02-11eb-8863-2a9450c3d852.PNG" width="400px" > 
 
 
 <img src="https://user-images.githubusercontent.com/53696144/105339398-a1d96100-5c02-11eb-9cc4-4954c798d5d7.PNG" width="400px"  align="right" >
